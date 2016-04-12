@@ -1,0 +1,19 @@
+{
+  "name": "sseidelmann/typo3-extension-utilities",
+  "type": "library",
+  "description": "Utilities to handle TYPO3 Extensions",
+  "keywords": ["TYPO3", "Extension"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Sebastian Seidelmann",
+      "email": "sebastian.seidelmann@googlemail.com",
+      "role": "lead"
+    }
+  ],
+  "autoload": {
+    "psr-0": {
+      "Seidelmann\\Typo3ExtensionUtilities": "src/"
+    }
+  }
+}
